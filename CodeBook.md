@@ -2,13 +2,13 @@
 for file _ActivityDataTidy.txt_
 
 ## **Indentifier Columns**
-subject 
+subject\ 
 activity
 
 ## **Measurement Columns**
-tBodyAccmeanX 
-tBodyAccmeanY 
-tBodyAccmeanZ 
+tBodyAccmeanX\ 
+tBodyAccmeanY\ 
+tBodyAccmeanZ\ 
 tBodyAccstdX 
 tBodyAccstdY 
 tBodyAccstdZ 
