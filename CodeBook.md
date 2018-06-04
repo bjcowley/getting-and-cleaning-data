@@ -1,11 +1,19 @@
 ## **Code Book**
 for file _ActivityDataTidy.txt_
 
-## **Indentifier Columns**
+## **Indentifier Column Names**
 subject<br/>
 activity
 
-## **Measurement Columns**
+## **Activity Column Values**
+WALKING<br/>
+WALKING_UPSTAIRS<br/>
+WALKING_DOWNSTAIRS<br/>
+SITTING<br/>
+STANDING<br/>
+LAYING<br/>
+
+## **Measurement Column Names**
 tBodyAccmeanX<br/>
 tBodyAccmeanY<br/>
 tBodyAccmeanZ<br/>
@@ -85,11 +93,3 @@ fBodyBodyGyroMagmeanFreq <br/>
 fBodyBodyGyroJerkMagmean <br/>
 fBodyBodyGyroJerkMagstd <br/>
 fBodyBodyGyroJerkMagmeanFreq<br/>
-
-## *Activity Values*
-WALKING<br/>
-WALKING_UPSTAIRS<br/>
-WALKING_DOWNSTAIRS<br/>
-SITTING<br/>
-STANDING<br/>
-LAYING<br/>
