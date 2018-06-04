@@ -1,5 +1,5 @@
 ## **Code Book**
-for file _ActivityDataTidy.txt_
+for file __ActivityDataTidy.txt__
 
 ## **Indentifier Columns**
 subject<br/>
