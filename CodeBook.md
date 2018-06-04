@@ -3,7 +3,7 @@ for file _ActivityDataTidy.txt_
 
 ## **Indentifier Columns**
 subject
-  activity
+activity
 
 ## **Measurement Columns**
 tBodyAccmeanX 
@@ -86,7 +86,7 @@ fBodyBodyGyroJerkMagmean
 fBodyBodyGyroJerkMagstd 
 fBodyBodyGyroJerkMagmeanFreq
 
-##*Activity Values*
+## *Activity Values*
 WALKING
 WALKING_UPSTAIRS
 WALKING_DOWNSTAIRS
