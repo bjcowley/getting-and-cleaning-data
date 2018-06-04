@@ -2,7 +2,7 @@
 for file _ActivityDataTidy.txt_
 
 ## **Indentifier Columns**
-subject
+subject 
 activity
 
 ## **Measurement Columns**
