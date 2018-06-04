@@ -3,7 +3,7 @@ for file _ActivityDataTidy.txt_
 
 ## **Indentifier Columns**
 subject
-activity
+  activity
 
 ## **Measurement Columns**
 tBodyAccmeanX 
