@@ -55,6 +55,10 @@ mergedActivityData$activity <-
                levels = activityLabels[, 1],
                labels = activityLabels[, 2])
 
+# clean up column names
+renameCols <- gsub("[\\(\\)-]", "", renameCols)
+colnames(mergedActivityData) <- renameCols
+
 # group and summarize the data
 mergedActivityFinal <-
         mergedActivityData %>% group_by(subject, activity) %>% summarize_all(funs(mean))
